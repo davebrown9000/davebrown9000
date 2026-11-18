@@ -9,9 +9,18 @@ I combine postgraduate training in **data science, statistics, machine learning 
 | Project | What it demonstrates |
 |---|---|
 | **[Beyond Polarity: Explainable Graph-Augmented Sentiment Analysis](https://github.com/davebrown9000/explainable-graph-sentiment-analysis)** | MSc research: spaCy feature extraction, pretrained PyABSA aspect sentiment, contextual situation attribution, bipartite networks, Jaccard similarity, Louvain communities and association rules. Public code is a synthetic graph demonstration, not the full research pipeline. |
-| **[Enterprise Data Pipeline & Analytics](https://github.com/davebrown9000/enterprise-data-pipeline-analytics)** | R-based operational analysis, current-state assessment, workflow and reporting design, custom data attributes and AI-bot workflow delivery. Includes a separate synthetic Python data-quality pipeline. |
+| **[Enterprise Data Pipeline & Analytics](https://github.com/davebrown9000/enterprise-data-pipeline-analytics)** | R-based operational analysis, current-state assessment, workflow and reporting design, custom data attributes and AI-bot workflow delivery. Includes independent synthetic R analysis and Python data-quality demonstrations. |
 | **[Outlook Data Integrity & Migration](https://github.com/davebrown9000/outlook-data-integrity-migration)** | Mailbox data inventory, identity preservation, deterministic migration planning, validation and post-migration reconciliation, demonstrated offline with fictional records. |
 | **[Evidence-Governed AI Document Engineering](https://github.com/davebrown9000/evidence-governed-ai-document-engineering)** | Evidence-grounded AI document architecture and a tested Python claim-reference validator with GitHub Actions CI and fictional evidence. |
+
+## Evidence at a glance
+
+- **Applied research:** MSc dissertation on explainable aspect-based sentiment analysis, using 3,062 reviews; graph/network interpretation and reproducible academic reporting.
+- **Operational analytics and delivery:** R-based evaluation of more than 25,000 interactions and 26 workflows, informing a structured attribute model, new AI-bot workflows and supporting operational reports.
+- **Data integrity and engineering:** Controlled migration planning, stable identifiers, exception handling and reconciliation, demonstrated publicly with fictional data.
+- **Continuous validation:** All four public projects have GitHub Actions workflows with successful runs. [Research CI](https://github.com/davebrown9000/explainable-graph-sentiment-analysis/actions) · [Analytics CI](https://github.com/davebrown9000/enterprise-data-pipeline-analytics/actions) · [Migration CI](https://github.com/davebrown9000/outlook-data-integrity-migration/actions) · [AI validation CI](https://github.com/davebrown9000/evidence-governed-ai-document-engineering/actions)
+
+The research and consulting figures describe documented original work; public demonstrations use independent synthetic examples.
 
 ## Technical focus
 
