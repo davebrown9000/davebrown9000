@@ -2,7 +2,7 @@
 
 **Data science · Data engineering · Applied AI · Technical systems**
 
-MSc Data Science (Distinction). I combine experience in technical integrations and customer-facing technology roles with postgraduate training in statistics, machine learning, data mining and network analysis.
+I combine experience in technical integrations and customer-facing technology roles with postgraduate training in statistics, machine learning, data mining and network analysis.
 
 My projects focus on turning complex inputs into traceable, testable and useful outputs. Particular interests include evidence-grounded AI workflows, data quality, graph-based analysis and reproducible engineering.
 
